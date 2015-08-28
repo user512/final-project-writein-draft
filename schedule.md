@@ -17,4 +17,6 @@ Lorraine, Felix => Frontend
 | 11:00 AM | Stand Up
 | -------- | API, Permissions, Seeding by lunch
 | 12:30 PM | Lunch, Trello board build by this time
+| 1:30 PM - 2:30 PM | Partner Swap
+| 4:30 PM - 5:30 PM | Second Swap
 |  7:00 PM | Felix leave for dinner, decide React/Angular
